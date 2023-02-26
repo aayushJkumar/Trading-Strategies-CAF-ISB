@@ -1,2 +1,2 @@
-# trading-strategies
+# Trading-Strategies
 ISB Trading Strategies Repository 
