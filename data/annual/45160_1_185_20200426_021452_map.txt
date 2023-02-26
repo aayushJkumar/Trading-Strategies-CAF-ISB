@@ -1,0 +1,14 @@
+sas_qsegbrk_cocode|Prowess company code|Code
+sas_company_name|Prowess company name|Text
+sas_qsegbrk_info_type|Information type|Text
+sas_seg_date|Date|Date
+sas_seg_name|Segment name|Text
+sas_seg_type|Segment type|Text
+sas_seg_months|Months|Mths
+sas_seg_code|Segment code|Code
+sas_product_name_mst|Product group name|Text
+sas_seg_revenue|Segment-wise revenue|Rs. Million ; Non-annualised
+sas_net_sales_seg|Segment-wise net sales|Rs. Million ; Non-annualised
+sas_net_profit_seg|Segment-wise net profit|Rs. Million ; Non-annualised
+sas_seg_tot_liab|Segment-wise total liabilities|Rs. Million
+sas_seg_cap_exp|Segment-wise capital expenditure incurred|Rs. Million

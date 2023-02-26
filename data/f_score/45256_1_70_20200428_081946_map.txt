@@ -1,0 +1,40 @@
+sa_finance1_cocode|Company code|Code
+sa_company_name|Name|Text
+sa_finance1_year|Year|Date
+sa_ann_rep_months|Months|Mths
+sa_fs_format|AR Format|Text
+sa_total_income|Total income|Rs. Million ; Non-annualised
+sa_sales|Sales|Rs. Million ; Non-annualised
+sa_prior_period_extra_ordi_inc|Prior period and extra-ordinary income|Rs. Million ; Non-annualised
+sa_prior_period_inc|Prior period income|Rs. Million ; Non-annualised
+sa_extra_ordi_inc|Extra-ordinary income|Rs. Million ; Non-annualised
+sa_tot_inc_net_of_pe|Total income net of prior period and extra-ordinary income|Rs. Million ; Non-annualised
+sa_pat|Profit after tax|Rs. Million ; Non-annualised
+sa_pbdita|PBDITA|Rs. Million ; Non-annualised
+sa_pbt|PBT|Rs. Million ; Non-annualised
+sa_pbit_net_of_peoifi|PBIT net of P&E&OI&FI|Rs. Million
+sa_pat_net_of_pe|PAT net of P&E|Rs. Million ; Non-annualised
+sa_pat_net_of_pe_pc_tot_inc_net_of_pe|Net profit margin|(%)
+sa_total_liabilities|Total liabilities|Rs. Million
+sa_non_current_liabilities|Non-current liabilities|Rs. Million
+sa_long_term_borrowings|Long term borrowings excl current portion|Rs. Million
+sa_current_liabilities|Current liabilities|Rs. Million
+sa_issued_equity_shares|Issued equity shares|Nos.
+sa_issued_pref_shares|Issued preference shares|Nos.
+sa_issued_equity_cap|Issued equity capital|Rs. Million
+sa_issued_pref_cap|Issued preference capital|Rs. Million
+sa_reduct_equity_cap_amt|Reduction in equity capital -- amount|Rs. Million
+sa_buyback_amt|Buy back of shares -- amount|Rs. Million
+sa_issued_equity_shares_in_lakhs|Issued equity shares (In lakhs)|Lakh nos
+sa_shareholders_funds|Shareholders funds|Rs. Million
+sa_debt|Debt|Rs. Million
+sa_total_assets|Total assets|Rs. Million
+sa_non_current_assets|Non-current assets|Rs. Million
+sa_current_assets_incl_st_invest_loans|Current assets (incl. short term investments, loans & advances)|Rs. Million
+sa_avg_tot_asset_net_miscexp_now_reval|Average total assets net of reval|Rs. Million
+sa_quick_ratio|Quick ratio (times)|Times
+sa_current_ratio|Current ratio (times)|Times
+sa_debt_equity|Debt to equity ratio (times)|Times
+sa_cf_net_frm_op_activity|Net cash flow from operating activities|Rs. Million
+sa_cf_generated_frm_op|Cash flow before taxes generated from operations|Rs. Million
+sa_cf_proceeds_share_issue|Cash inflow due to proceeds from share issues (including share premium)|Rs. Million

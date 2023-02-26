@@ -1,0 +1,12 @@
+chistory_cocode|Prowess company name|Code
+company_name|Prowess company name|Text
+issue_date|Issue date|Date
+issue_type|Issue type|Text
+security_type_code|Security type|Code
+sectype_name|Security name|Text
+chistory_seqno|Issue sequence number|Number
+ipo_flag|Initial public offering|Y
+final_shares_os|Final total share outstanding|Nos.
+bse_exdate|BSE ex date|Date
+nse_exdate|NSE ex date|Date
+outstanding_shares|Outstanding shares|Nos.
